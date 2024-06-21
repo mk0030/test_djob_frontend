@@ -1,0 +1,40 @@
+
+.user-profile {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .user-profile h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .user-profile p {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  
+  .user-profile h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .user-profile ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-profile li {
+    margin: 5px 0;
+  }
+  
+  .user-profile a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .user-profile a:hover {
+    text-decoration: underline;
+  }
+  

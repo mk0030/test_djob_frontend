@@ -1,0 +1,29 @@
+
+.album {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .album h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .album .photos {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .album .photos div {
+    margin: 10px;
+  }
+  
+  .album .photos img {
+    max-width: 150px;
+    max-height: 150px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #fff;
+  }
+  
